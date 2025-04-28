@@ -1,0 +1,11 @@
+# Ignorar carpeta de configuración de VSCode
+.vscode/
+
+# Ignorar node_modules de cada proyecto
+**/node_modules/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar dist (por si después compilás TypeScript)
+**/dist/
