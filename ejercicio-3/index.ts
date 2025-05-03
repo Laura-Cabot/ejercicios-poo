@@ -1,4 +1,6 @@
-class Televisor {
+// Ejercicio 3: Crear una clase Televisor con métodos para encender, apagar, cambiar de canal, subir/bajar volumen y mutear/desmutear.
+
+export class Televisor {
     private encendido: boolean;
     private canal: number;
     private volumen: number;
